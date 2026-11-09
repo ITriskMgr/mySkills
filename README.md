@@ -7,3 +7,5 @@ Documentation for skills built with SkillStudio.
 - [Bilingual Security Policy Writer](./crg-security-policy-writer/) — Interviews your organization, proposes a 28-document policy architecture and drafts bilingual EN/FR security policies, standards and procedures with MUST/SHOULD/MAY statements and a legal applicability table for counsel.
 
 - [AI Agent and LLM Risk Scenario Pack](./crg-ai-agent-risk/) — Turn an inventory of your AI systems and agents into causal-chain cybersecurity risk scenarios, existing vs recommended controls, and a prioritised list for management. English and French.
+
+- [CVSS v4.0 Base Scorer with Justification](./crg-cvss4-scorer/) — Turns a described vulnerability, CVE text or vector into a justified CVSS v4.0 Base vector with an exact score found by lookup in bundled tables, a metric-by-metric rationale and a sensitivity check. English and French.
