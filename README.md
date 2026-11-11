@@ -9,3 +9,5 @@ Documentation for skills built with SkillStudio.
 - [AI Agent and LLM Risk Scenario Pack](./crg-ai-agent-risk/) — Turn an inventory of your AI systems and agents into causal-chain cybersecurity risk scenarios, existing vs recommended controls, and a prioritised list for management. English and French.
 
 - [CVSS v4.0 Base Scorer with Justification](./crg-cvss4-scorer/) — Turns a described vulnerability, CVE text or vector into a justified CVSS v4.0 Base vector with an exact score found by lookup in bundled tables, a metric-by-metric rationale and a sensitivity check. English and French.
+
+- [Fixed Income and Bond Valuation Specialist](./bond-valuation-specialist/) — Prices plain fixed-coupon and zero-coupon bonds: coupon schedule, accrued interest, dirty/clean price, YTM, duration, convexity, DV01 and rate/spread scenarios, with exact traces. Refuses callable or option bonds. Decision support only.
